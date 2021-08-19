@@ -1,16 +1,18 @@
-# image_picker
+# ImagePicker Sample
 
-A new Flutter application.
+** This app is demnostrating an image picker sample app using Flutter .**
 
-## Getting Started
+##  Technologies :
 
-This project is a starting point for a Flutter application.
+Flutter, Dart , Firebase Authentication and Provider.
 
-A few resources to get you started if this is your first Flutter project:
+##  Source Code representation :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- data : data layer which contains data source and repository classes.
+- helper : common helper classes used across the application.
+- provider : classes to establish communication scenes between screens.
+- screens : UI screens representaion.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Rate
+
+If you find this repository useful please give it a star .
