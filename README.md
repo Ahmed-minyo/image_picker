@@ -10,7 +10,7 @@ Flutter, Dart , Firebase Authentication and Provider.
 
 - data : data layer which contains data source and repository classes.
 - helper : common helper classes used across the application.
-- provider : classes to establish communication scenes between screens.
+- provider : classes to establish communication scenes and manage data between screens.
 - screens : UI screens representaion.
 
 ### Rate
